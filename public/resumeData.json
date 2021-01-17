@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Shivam Gupta",
+    "occupation": "Software Developer Intern at Sharechat",
+    "description": "",
+    "image": "Naz.jpg",
+    "bio": "My name is Naz, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "sgshivamgupta14@gmail.com",
+    "phone": "9868098898",
+    "address": {
+      "street": "Vikaspuri",
+      "city": "New Delhi",
+      "state": "IN",
+      "zip": "110018"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sgshivamgupta14",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shivam-gupta-08/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/shivamm__/",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shivamgupta08",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "experience": {
+    "experienceData": [
+      {
+        "organisation": "Sharechat",
+        "title": "Software Engineer Intern",
+        "date": "Aug'2020 - Present",
+        "workDone": [
+          "- Working with web creation pod team responsible for developing and maintaining the content for Sharechat and Moj app.",
+          "- Implemented features and services for CMS tools for different pods internal to organization.",
+          "- Following best practices like TDD and maintaining a high quality of code that rolls out to 230M users on production.",
+          "- Developed and Integrated Slackbot App for integrating comments from Figma files to slack channel for Design team."
+        ]
+      },
+      {
+        "organisation": "Publicis Sapient",
+        "title": "Frontend Developer Intern",
+        "date": "Jun'2019 - Jul'2019",
+        "workDone": [
+          "- Worked on web portal project called HeadStart, where I was responsible for responsive Frontend layout of the portal using HTML5, CSS3, Bootstrap4, JavaScript, also I developed basic knowledge of Vuejs."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "skillsData": [
+      {
+        "icon": "codeWorking",
+        "title": "Frontend Development",
+        "desc": "Skilled in developing web apps using VueJs and ReactJs. Also acquainted with flux state management and matrial design like Vuex, Redux and Vuetify, MaterialUI respectively."
+      },
+      {
+        "icon": "statsChart",
+        "title": "Machine Learning",
+        "desc": "Familiar with exploratory data analysis, visualization of large datasets and preprocessing it, and having knowledge of various machine learning algorithms and python libraries."
+      }
+    ]
+  },
+  "about": {
+    "aboutData": [
+      "I am Shivam Gupta, pursuing final year of Bachelors of Technology in Computer Science at the Guru Gobind Singh Indraprastha University, New Delhi, India.",
+      "A geeky enthusiast with a passion of bringing change to the lives of people by harnessing the power of technology and engineering, I love to spend my time on trying new tools, algorithms and brushing up my logic to solve challenging problems and converting them into products that can be used by people. I also play with data structures over ball sometimes.",
+      "When not behind the screen, you can find me behind the lens, as I love to capture the world through my photography. I take an interest in chess, sports, politics, standups and would love to have a discussion about them over a cup of coffee/tea."
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Find A Coach",
+        "category": "An online system created using the VueJs that lets user find a perfect coach on the basis of user’s need.",
+        "image": "findcoach.png",
+        "url": "https://www.youtube.com/watch?v=ZVznzY7EjuY"
+      },
+      {
+        "title": "Burger Builder",
+        "category": "An online system created using React which lets user customize its burger and order it that aims to provide a simple and intuitive UI.",
+        "image": "dogs.jpg",
+        "url": "https://github.com/shivamgupta08/TinDog"
+      },
+      {
+        "title": "Tindog",
+        "category": "Fully responsive frontend website similar to tinder (for dogs) using HTML5, CSS3, Bootstrap4.",
+        "image": "dogs.jpg",
+        "url": "https://github.com/shivamgupta08/TinDog"
+      },
+      {
+        "title": "Personal Portfolio",
+        "category": "Personal Dynamic Portfolio built with ReactJs, data is fetched from api (jsonBin) and deployed using Github pages",
+        "image": "portfolio.jpg",
+        "url": "https://www.shivamgupta08.github.io/"
+      }
+    ]
+  }
+}
