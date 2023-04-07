@@ -21,12 +21,12 @@ class App extends Component {
 
   getResumeData() {
     $.ajax({
-      url: "https://api.jsonbin.io/b/6001499e4f42973a289d250c/3",
+      url: "https://api.jsonbin.io/v3/b/64305168c0e7653a059fac39",
       dataType: "json",
       cache: false,
       headers: {
-        "secret-key":
-          "$2b$10$IsoiIuiZvqNdRgisDoLt..6llpIJIKbvWWwq9X240CBLV8gGzluTm",
+        "X-MASTER-KEY":
+          "$2b$10$RK7gcz.QgdIURpTs/xsvSe7FfbvMcT2q.YeYnsCEIf99Aadip6zha",
       },
       success: function (data) {
         console.log(data);
